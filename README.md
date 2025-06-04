@@ -68,3 +68,7 @@ Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, toplulu
 ?? **[Destek Sunucusu](https://discord.gg/kabeleak)**
 
 ---
+
+## Lisans
+Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır. Dilediğiniz gibi kullanabilir, dağıtabilir ve geliştirebilirsiniz.
+"""
